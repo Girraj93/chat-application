@@ -1,0 +1,14 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "it is group work it is chat-application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arpit, girraj, krishna",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
